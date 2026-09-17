@@ -20,7 +20,7 @@ elif nama == "Mizuki Akiyama":
     print("kamu cantik bgt sih")
 elif nama == "Nagisa Shiota":
     print("halo my bini!")
-    print(kamu baik banget')
+    print("kamu baik banget")
 else:
     print("skip,gak imut")
     print("ini adalah akhir dari program")
