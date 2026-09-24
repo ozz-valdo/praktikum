@@ -12,6 +12,14 @@ while angka  > 5:
 
 print('===contoh 2===\n')
 
+
+
+angka = 1
+
+while angka <= 5:
+    print(angka)
+    angka += 1
+
 angka = 0
 print(f'angka sekarang → {angka}') 
 
