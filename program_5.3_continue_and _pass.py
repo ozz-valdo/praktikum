@@ -14,3 +14,11 @@ while angka < 5:
     print ('whassup') # aksi 2
 
 print ('finish')
+
+
+
+
+for i in range(1, 6):
+    if i == 3:
+        continue
+    print(i)
