@@ -34,6 +34,6 @@ print('akhiri dari program\n')
 data_str = ('akhiri dari program\n')
 
 
-for i in range (5)
+for i in range (5):
 print ("hidup Joe Taslim")
 
