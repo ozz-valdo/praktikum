@@ -32,8 +32,3 @@ print('akhiri dari program\n')
 
 #MENGGUNAKAN STRING
 data_str = ('akhiri dari program\n')
-
-
-for i in range (5):
-    print ("hidup Joe Taslim")
-
