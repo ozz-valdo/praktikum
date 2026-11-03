@@ -1,7 +1,7 @@
 ## --- OPERASI LIST --- 
 
 # index 0(-3) 1(-2) 2(-1) 
-data 1 = ["Binah","Carmen,"Ayin"] 
+data 1 = ["Binah","Carmen,"Ayin”] 
 data 2 = ["Roland","Angelica,"Vergillius"]
 data 3 = ["Callisto","Matthias,"Rien"] 
 
