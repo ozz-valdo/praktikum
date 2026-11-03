@@ -1,7 +1,7 @@
 ## --- OPERASI LIST --- 
 
 # index 0(-3) 1(-2) 2(-1) 
-data = ["Ucup","Adit","Dudung"] 
+data = ["Queequeg","Ishmael","Ahab"] 
 
 # mengambil data dari list 
 data_0 = data[0]
