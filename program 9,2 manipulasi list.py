@@ -2,8 +2,7 @@
 
 # index 0(-3) 1(-2) 2(-1) 
 data 1 = ["Binah","Carmen,"Ayin”] 
-data 2 = ["Roland","Angelica,"Vergillius"]
-data 3 = ["Callisto","Matthias,"Rien"] 
+ 
 
 # mengambil data dari list 
 data_0 = data[0]
