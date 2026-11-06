@@ -22,7 +22,7 @@ print (f"panjang data = {panjang_data}")
 print (f"data sebelum ditambah =\n{data}")
 
 #data.insert(posisi,item) 
-data.insert (1,"Asep")
+data.insert (1,"Araya")
 print (f"data ditambah lagi = \n {data}")
 
 # menambah di akhir list 
